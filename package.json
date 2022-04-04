@@ -1,7 +1,7 @@
 {
-  "name": "route",
+  "name": "express",
   "version": "1.0.0",
-  "description": "<h2> Assignment - 1</h2>",
+  "description": "<h2> Assignment - 2</h2>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +12,6 @@
   "dependencies": {
     "body-parser": "^1.19.2",
     "express": "^4.17.3"
-  },
-  "devDependencies": {}
+    "mongoose":"^6.2.9"
+  }
 }
